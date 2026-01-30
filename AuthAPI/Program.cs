@@ -53,6 +53,16 @@ builder.Services.AddCors(options =>
     static string NormalizeOrigin(string origin)
     {
         var trimmed = origin.Trim();
+        if (trimmed.Length >= 2)
+        {
+            var first = trimmed[0];
+            var last = trimmed[^1];
+            var isQuoted = (first == '"' && last == '"') || (first == '\'' && last == '\'');
+            if (isQuoted)
+            {
+                trimmed = trimmed[1..^1].Trim();
+            }
+        }
         while (trimmed.EndsWith("/", StringComparison.Ordinal))
         {
             trimmed = trimmed[..^1];
@@ -66,6 +76,11 @@ builder.Services.AddCors(options =>
         .Distinct(StringComparer.OrdinalIgnoreCase)
         .ToArray()
         ?? Array.Empty<string>();
+
+    if (configuredOrigins.Length > 0)
+    {
+        Console.WriteLine($"[INFO] CORS allowed origins: {string.Join(", ", configuredOrigins)}");
+    }
 
     var allowAnyOrigin = builder.Configuration.GetValue<bool>("Cors:AllowAnyOrigin");
     var defaultDevOrigins = new[]
