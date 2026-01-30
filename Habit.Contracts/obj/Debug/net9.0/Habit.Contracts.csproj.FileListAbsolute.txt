@@ -1,0 +1,12 @@
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/bin/Debug/net9.0/Habit.Contracts.deps.json
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/bin/Debug/net9.0/Habit.Contracts.dll
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/bin/Debug/net9.0/Habit.Contracts.pdb
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/Habit.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/Habit.Contracts.AssemblyInfoInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/Habit.Contracts.AssemblyInfo.cs
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/Habit.Contracts.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/Habit.Contracts.sourcelink.json
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/Habit.Contracts.dll
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/refint/Habit.Contracts.dll
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/Habit.Contracts.pdb
+/Users/riad/Desktop/ProjectWork/backend/Habit.Contracts/obj/Debug/net9.0/ref/Habit.Contracts.dll

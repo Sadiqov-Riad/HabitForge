@@ -1,0 +1,18 @@
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+
+**/bin
+**/obj
+**/*.user
+**/*.suo
+**/*.log
+
+# Never bake secrets into images
+**/.env
+**/.env.*
+
+# Node artifacts (if any)
+**/node_modules
+**/dist

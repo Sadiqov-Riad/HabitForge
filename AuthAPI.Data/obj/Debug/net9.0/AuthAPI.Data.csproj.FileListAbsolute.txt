@@ -1,0 +1,91 @@
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.deps.json
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.AssemblyReference.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfoInputs.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfo.cs
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.sourcelink.json
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/refint/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Data/obj/Debug/net9.0/ref/AuthAPI.Data.dll
+C:/Project/ProjectWork/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.deps.json
+C:/Project/ProjectWork/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.dll
+C:/Project/ProjectWork/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.pdb
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.AssemblyReference.cache
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfoInputs.cache
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfo.cs
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.CoreCompileInputs.cache
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.sourcelink.json
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.dll
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/refint/AuthAPI.Data.dll
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.pdb
+C:/Project/ProjectWork/AuthAPI.Data/obj/Debug/net9.0/ref/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.deps.json
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.AssemblyReference.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfoInputs.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfo.cs
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.sourcelink.json
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/refint/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/ref/AuthAPI.Data.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.deps.json
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.pdb
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.AssemblyReference.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfo.cs
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.sourcelink.json
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/refint/AuthAPI.Data.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.pdb
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/ref/AuthAPI.Data.dll
+C:/Project/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.deps.json
+C:/Project/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.dll
+C:/Project/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.pdb
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.AssemblyReference.cache
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfoInputs.cache
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfo.cs
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.CoreCompileInputs.cache
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.sourcelink.json
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.dll
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/refint/AuthAPI.Data.dll
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.pdb
+C:/Project/backend/AuthAPI.Data/obj/Debug/net9.0/ref/AuthAPI.Data.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.deps.json
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.pdb
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.AssemblyReference.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfoInputs.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfo.cs
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.CoreCompileInputs.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.sourcelink.json
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/refint/AuthAPI.Data.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.pdb
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/ref/AuthAPI.Data.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.deps.json
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/bin/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.AssemblyReference.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfoInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.AssemblyInfo.cs
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.sourcelink.json
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/refint/AuthAPI.Data.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Data/obj/Debug/net9.0/ref/AuthAPI.Data.dll

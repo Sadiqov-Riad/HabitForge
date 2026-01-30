@@ -1,0 +1,12 @@
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/bin/Debug/net9.0/Habit.Domain.deps.json
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/bin/Debug/net9.0/Habit.Domain.dll
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/bin/Debug/net9.0/Habit.Domain.pdb
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/Habit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/Habit.Domain.AssemblyInfoInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/Habit.Domain.AssemblyInfo.cs
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/Habit.Domain.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/Habit.Domain.sourcelink.json
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/Habit.Domain.dll
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/refint/Habit.Domain.dll
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/Habit.Domain.pdb
+/Users/riad/Desktop/ProjectWork/backend/Habit.Domain/obj/Debug/net9.0/ref/Habit.Domain.dll

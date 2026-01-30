@@ -1,0 +1,151 @@
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/OTPTemplate.html
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.deps.json
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.runtimeconfig.json
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.pdb
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfo.cs
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.sourcelink.json
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI..4E0B1345.Up2Date
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/refint/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.pdb
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.genruntimeconfig.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Infrastructure/obj/Debug/net9.0/ref/AuthAPI.Infrastructure.dll
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/OTPTemplate.html
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.deps.json
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.runtimeconfig.json
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.dll
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.pdb
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.dll
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Project/ProjectWork/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.pdb
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.AssemblyReference.cache
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfoInputs.cache
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfo.cs
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.sourcelink.json
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI..4E0B1345.Up2Date
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.dll
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/refint/AuthAPI.Infrastructure.dll
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.pdb
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.genruntimeconfig.cache
+C:/Project/ProjectWork/AuthAPI.Infrastructure/obj/Debug/net9.0/ref/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/OTPTemplate.html
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.deps.json
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.runtimeconfig.json
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.pdb
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfo.cs
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.sourcelink.json
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI..4E0B1345.Up2Date
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/refint/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.pdb
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.genruntimeconfig.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/ref/AuthAPI.Infrastructure.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/OTPTemplate.html
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.deps.json
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.runtimeconfig.json
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.pdb
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.pdb
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfo.cs
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.sourcelink.json
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI..4E0B1345.Up2Date
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/refint/AuthAPI.Infrastructure.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.pdb
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.genruntimeconfig.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/ref/AuthAPI.Infrastructure.dll
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/OTPTemplate.html
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.deps.json
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.runtimeconfig.json
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.dll
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.pdb
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.dll
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Project/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.pdb
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.AssemblyReference.cache
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfoInputs.cache
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfo.cs
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.sourcelink.json
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI..4E0B1345.Up2Date
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.dll
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/refint/AuthAPI.Infrastructure.dll
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.pdb
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.genruntimeconfig.cache
+C:/Project/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/ref/AuthAPI.Infrastructure.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/OTPTemplate.html
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.deps.json
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.runtimeconfig.json
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.pdb
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.pdb
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfo.cs
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.sourcelink.json
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI..4E0B1345.Up2Date
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/refint/AuthAPI.Infrastructure.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.pdb
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.genruntimeconfig.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/ref/AuthAPI.Infrastructure.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/PasswordChangedTemplate.html
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/WelcomeTemplate.html
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/OTPTemplate.html
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/PasswordChangedTemplate.html
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/EmailTemplates/Noreply/WelcomeTemplate.html
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.deps.json
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.runtimeconfig.json
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Infrastructure.pdb
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/bin/Debug/net9.0/AuthAPI.Data.pdb
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.AssemblyInfo.cs
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.sourcelink.json
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI..4E0B1345.Up2Date
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/refint/AuthAPI.Infrastructure.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.pdb
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/AuthAPI.Infrastructure.genruntimeconfig.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Infrastructure/obj/Debug/net9.0/ref/AuthAPI.Infrastructure.dll

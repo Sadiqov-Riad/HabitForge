@@ -1,0 +1,91 @@
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.deps.json
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.AssemblyReference.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfoInputs.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfo.cs
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.sourcelink.json
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/refint/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/step/ProjectWork/onionauth/AuthAPI.Contracts/obj/Debug/net9.0/ref/AuthAPI.Contracts.dll
+C:/Project/ProjectWork/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.deps.json
+C:/Project/ProjectWork/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Project/ProjectWork/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.AssemblyReference.cache
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfoInputs.cache
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfo.cs
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.CoreCompileInputs.cache
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.sourcelink.json
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/refint/AuthAPI.Contracts.dll
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Project/ProjectWork/AuthAPI.Contracts/obj/Debug/net9.0/ref/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.deps.json
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.AssemblyReference.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfoInputs.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfo.cs
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.sourcelink.json
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/refint/AuthAPI.Contracts.dll
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/step/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/ref/AuthAPI.Contracts.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.deps.json
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.AssemblyReference.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfo.cs
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.sourcelink.json
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/refint/AuthAPI.Contracts.dll
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Users/user/Desktop/itstep/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/ref/AuthAPI.Contracts.dll
+C:/Project/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.deps.json
+C:/Project/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Project/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.AssemblyReference.cache
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfoInputs.cache
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfo.cs
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.CoreCompileInputs.cache
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.sourcelink.json
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/refint/AuthAPI.Contracts.dll
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Project/backend/AuthAPI.Contracts/obj/Debug/net9.0/ref/AuthAPI.Contracts.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.deps.json
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.AssemblyReference.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfoInputs.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfo.cs
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.CoreCompileInputs.cache
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.sourcelink.json
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/refint/AuthAPI.Contracts.dll
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.pdb
+C:/Users/sadiq/OneDrive - ITM STEP MMC/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/ref/AuthAPI.Contracts.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.deps.json
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/bin/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.AssemblyReference.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfoInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.AssemblyInfo.cs
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.csproj.CoreCompileInputs.cache
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.sourcelink.json
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/refint/AuthAPI.Contracts.dll
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/AuthAPI.Contracts.pdb
+/Users/riad/Desktop/ProjectWork/backend/AuthAPI.Contracts/obj/Debug/net9.0/ref/AuthAPI.Contracts.dll
