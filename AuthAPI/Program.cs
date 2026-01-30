@@ -50,18 +50,60 @@ var safeConnectionString = connectionString is null
 Console.WriteLine($"[DEBUG] DefaultConnection: {safeConnectionString}");
 builder.Services.AddCors(options =>
 {
+    static string NormalizeOrigin(string origin)
+    {
+        var trimmed = origin.Trim();
+        while (trimmed.EndsWith("/", StringComparison.Ordinal))
+        {
+            trimmed = trimmed[..^1];
+        }
+        return trimmed;
+    }
+
     var configuredOrigins = builder.Configuration.GetSection("Cors:AllowedOrigins").Get<string[]>()
         ?.Where(o => !string.IsNullOrWhiteSpace(o))
-        .Select(o => o.Trim())
+        .Select(NormalizeOrigin)
+        .Distinct(StringComparer.OrdinalIgnoreCase)
         .ToArray()
         ?? Array.Empty<string>();
 
-    var defaultDevOrigins = new[] { "http://localhost:5174", "http://127.0.0.1:5174" };
-    var allowedOrigins = configuredOrigins.Length > 0 ? configuredOrigins : defaultDevOrigins;
+    var allowAnyOrigin = builder.Configuration.GetValue<bool>("Cors:AllowAnyOrigin");
+    var defaultDevOrigins = new[]
+    {
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        "http://localhost:5174",
+        "http://127.0.0.1:5174",
+    };
 
     options.AddPolicy("DefaultCors", policy =>
     {
-        policy.WithOrigins(allowedOrigins)
+        if (allowAnyOrigin)
+        {
+            Console.WriteLine("[WARN] Cors:AllowAnyOrigin=true. This is not recommended for production.");
+            policy
+                .AllowAnyOrigin()
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+            return;
+        }
+
+        var allowedOrigins = configuredOrigins.Length > 0
+            ? configuredOrigins
+            : (builder.Environment.IsDevelopment() ? defaultDevOrigins : Array.Empty<string>());
+
+        if (allowedOrigins.Length == 0)
+        {
+            Console.WriteLine("[WARN] No CORS origins configured. Set Cors__AllowedOrigins__0=https://<frontend-domain> in environment variables.");
+            policy
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .SetIsOriginAllowed(_ => false);
+            return;
+        }
+
+        policy
+            .WithOrigins(allowedOrigins)
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
@@ -128,12 +170,13 @@ if (app.Environment.IsDevelopment())
         app.MapScalarApiReference();
     }
 }
-
-app.UseCors("DefaultCors");
 if (!app.Environment.IsDevelopment())
 {
     app.UseHttpsRedirection();
 }
+
+app.UseRouting();
+app.UseCors("DefaultCors");
 
 app.UseAuthentication();
 app.UseAuthorization();
