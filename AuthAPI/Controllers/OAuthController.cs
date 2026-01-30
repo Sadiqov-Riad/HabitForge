@@ -9,9 +9,13 @@ namespace AuthAPI.Presentation.Controllers
     public class OAuthController : ControllerBase
     {
         private readonly IOAuthService _oAuthService;
-        public OAuthController(IOAuthService oAuthService)
+        private readonly string _frontendBaseUrl;
+
+        public OAuthController(IOAuthService oAuthService, IConfiguration configuration)
         {
             _oAuthService = oAuthService;
+            var raw = configuration["Frontend:BaseUrl"] ?? "http://localhost:5174/";
+            _frontendBaseUrl = raw.EndsWith("/") ? raw : raw + "/";
         }
 
         [HttpGet("google-auth-url")]
@@ -24,11 +28,10 @@ namespace AuthAPI.Presentation.Controllers
         [HttpGet("google-callback")]
         public async Task<IActionResult> GoogleCallback([FromQuery] string? code, [FromQuery] string? error, [FromQuery] string? error_description)
         {
-            var frontendUrl = "http://localhost:5174/";
             if (!string.IsNullOrWhiteSpace(error) || string.IsNullOrWhiteSpace(code))
             {
                 var reason = string.IsNullOrWhiteSpace(error) ? "missing_code" : error;
-                return Redirect($"{frontendUrl}login?oauth=failed&reason={Uri.EscapeDataString(reason)}");
+                return Redirect($"{_frontendBaseUrl}login?oauth=failed&reason={Uri.EscapeDataString(reason)}");
             }
 
             var requestDto = new GoogleAuthCodeRequestDTO
@@ -36,7 +39,7 @@ namespace AuthAPI.Presentation.Controllers
                 Code = code
             };
             var response = await _oAuthService.LoginWithGoogleCodeAsync(requestDto);
-            return Redirect($"{frontendUrl}?accessToken={response.AccessToken}&refreshToken={response.RefreshToken}&isNewUser={response.IsNewUser.ToString().ToLower()}");
+            return Redirect($"{_frontendBaseUrl}?accessToken={response.AccessToken}&refreshToken={response.RefreshToken}&isNewUser={response.IsNewUser.ToString().ToLower()}");
         }
     }
 }

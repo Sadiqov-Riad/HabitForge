@@ -50,9 +50,20 @@ var safeConnectionString = connectionString is null
 Console.WriteLine($"[DEBUG] DefaultConnection: {safeConnectionString}");
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowLocalFrontend", policy =>
+    var configuredOrigins = builder.Configuration.GetSection("Cors:AllowedOrigins").Get<string[]>()
+        ?.Where(o => !string.IsNullOrWhiteSpace(o))
+        .Select(o => o.Trim())
+        .ToArray()
+        ?? Array.Empty<string>();
+
+    var defaultDevOrigins = new[] { "http://localhost:5174", "http://127.0.0.1:5174" };
+    var allowedOrigins = configuredOrigins.Length > 0 ? configuredOrigins : defaultDevOrigins;
+
+    options.AddPolicy("DefaultCors", policy =>
     {
-        policy.WithOrigins("http://localhost:5174", "http://127.0.0.1:5174").AllowAnyHeader().AllowAnyMethod();
+        policy.WithOrigins(allowedOrigins)
+            .AllowAnyHeader()
+            .AllowAnyMethod();
     });
 });
 builder.Services.AddAuthentication(options =>
@@ -118,7 +129,7 @@ if (app.Environment.IsDevelopment())
     }
 }
 
-app.UseCors("AllowLocalFrontend");
+app.UseCors("DefaultCors");
 if (!app.Environment.IsDevelopment())
 {
     app.UseHttpsRedirection();
